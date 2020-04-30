@@ -1,5 +1,4 @@
 require('dotenv').config()
-const config = require('./config.js');
 
 const express = require('express')
 const request = require('request')
